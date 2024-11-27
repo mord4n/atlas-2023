@@ -1,0 +1,76 @@
+{
+	"id": -1,
+	"name": "Homenage to Neon War",
+	"description": "Nelson Hugo Serrano, also known as “Neon War” was a Salvadoran animator who made humorous animations of common situations in El Salvador. He sadly passed away around 2021 due to cancer of the lingual ganglia. ",
+	"links": {
+		"website": [
+			"https://youtube.com/@neonwar?si=BlqVSxEUYKfuFToa"
+		]
+	},
+	"path": {
+		"250": [
+			[
+				-885,
+				478
+			],
+			[
+				-885,
+				478
+			],
+			[
+				-889,
+				471
+			],
+			[
+				-884,
+				466
+			],
+			[
+				-875,
+				467
+			],
+			[
+				-875,
+				474
+			],
+			[
+				-873,
+				482
+			],
+			[
+				-880,
+				487
+			],
+			[
+				-890,
+				487
+			],
+			[
+				-891,
+				470
+			],
+			[
+				-874,
+				476
+			],
+			[
+				-890,
+				481
+			],
+			[
+				-890,
+				482
+			],
+			[
+				-891,
+				470
+			]
+		]
+	},
+	"center": {
+		"250": [
+			-880,
+			482
+		]
+	}
+}
